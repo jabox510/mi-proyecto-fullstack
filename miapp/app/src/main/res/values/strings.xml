@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">miapp</string>
+    <string-array name="tipos">
+        <item>MOTO</item>
+        <item>CARRO</item>
+        <item>BICICLETA</item>
+    </string-array>
+
+</resources>
